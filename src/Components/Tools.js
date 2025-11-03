@@ -7,7 +7,7 @@ const data = [
     children: [
       {
         name: "git",
-        loc: 12,
+        loc: 14,
       },
       {
         name: "Mercurial",
@@ -32,7 +32,7 @@ const data = [
       },
       {
         name: "Postgres",
-        loc: 4,
+        loc: 6,
       },
       {
         name: "Oracle",
@@ -65,11 +65,11 @@ const data = [
       },
       {
         name: "GitLab",
-        loc: 3,
+        loc: 5,
       },
       {
         name: "Kubernetes",
-        loc: 1,
+        loc: 5,
       },
     ],
   },
@@ -94,7 +94,7 @@ const data = [
       },
       {
         name: "Linear",
-        loc: 1,
+        loc: 3,
       },
     ],
   },
@@ -103,11 +103,11 @@ const data = [
     children: [
       {
         name: "Figma",
-        loc: 4,
+        loc: 6,
       },
       {
-        name: "Affinity Suite",
-        loc: 5,
+        name: "Affinity",
+        loc: 6,
       },
     ],
   },

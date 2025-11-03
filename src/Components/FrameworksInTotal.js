@@ -27,20 +27,20 @@ const data = [
     years: 3,
   },
   {
-    language: "React",
-    years: 3,
-  },
-  {
     language: "Ecto",
-    years: 3,
+    years: 5,
   },
   {
     language: "Phoenix",
-    years: 3,
+    years: 5,
   },
   {
     language: ".NET (WebAPI)",
     years: 5,
+  },
+    {
+    language: "React",
+    years: 7,
   },
   {
     language: "Angular",
