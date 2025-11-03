@@ -1,23 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e2e47c8.chunk.css",
-    "main.js": "/static/js/main.0ca53ee5.chunk.js",
-    "main.js.map": "/static/js/main.0ca53ee5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3bbf3189.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3bbf3189.js.map",
-    "static/js/2.833a4a6b.chunk.js": "/static/js/2.833a4a6b.chunk.js",
-    "static/js/2.833a4a6b.chunk.js.map": "/static/js/2.833a4a6b.chunk.js.map",
+    "main.css": "/static/css/main.84012ee3.css",
+    "main.js": "/static/js/main.ff239692.js",
+    "static/media/avi-website.png": "/static/media/avi-website.5a59107ba900b66c8ce8.png",
     "index.html": "/index.html",
-    "precache-manifest.e1e24b73e8b720fae1a13572b510cab8.js": "/precache-manifest.e1e24b73e8b720fae1a13572b510cab8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5e2e47c8.chunk.css.map": "/static/css/main.5e2e47c8.chunk.css.map",
-    "static/js/2.833a4a6b.chunk.js.LICENSE.txt": "/static/js/2.833a4a6b.chunk.js.LICENSE.txt",
-    "static/media/avi-website.png": "/static/media/avi-website.40127109.png"
+    "main.84012ee3.css.map": "/static/css/main.84012ee3.css.map",
+    "main.ff239692.js.map": "/static/js/main.ff239692.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.3bbf3189.js",
-    "static/js/2.833a4a6b.chunk.js",
-    "static/css/main.5e2e47c8.chunk.css",
-    "static/js/main.0ca53ee5.chunk.js"
+    "static/css/main.84012ee3.css",
+    "static/js/main.ff239692.js"
   ]
 }
